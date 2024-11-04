@@ -2,7 +2,7 @@
 - 👀 I’m web design.
 - 🌱 I'm also learning web design.
 - 💞️ I am looking for a colleague in the field of the site. After all, we need each other somewhere.
-- 📫 This is the Telegram ID to contact me: @EDRISMOAYED
+- 📫 This is the Telegram ID to contact me: url: https://telegram.com/@EDRISMOAYED
 - 😄 Site.Web design.Site coding. Eating😒
 - ⚡ Fun fact: This part is for code that doesn't work.
 
